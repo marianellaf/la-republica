@@ -1,0 +1,86 @@
+/* Inserta tu código de la página home/index acá */
+
+*{
+font-family: 'PT Sans', sans-serif;
+}
+
+.noticias h6{
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+	color:#708698;
+	margin-bottom: 30px;
+}
+.contac{
+	position: right;
+}
+
+.repit h3{
+	margin-top:0;	
+}
+.repit h3 a{
+	margin-top:0;
+	font-weight: 700;
+	color:black;	
+}
+.repit>p{
+	margin:5px 0;
+	color:#92999a;
+	font-size:10px;
+}
+ul{
+	padding-left: 0;
+}
+
+ul li a{
+	text-decoration: none;
+	
+	color:#9E9191;
+}
+ul li {
+	display: inline-block;
+	margin-left: 2%;
+}
+ul li a .fa-facebook-square{
+	color: #5b6998;
+	font-size: 20px;
+}
+ul li a .fa-twitter-square{
+	color:#68b5ee; 
+	font-size:20px; 
+}
+ul li .fa-google-plus-square{
+	color: #b74134;
+	font-size: 20px;
+}
+ul li .fa-youtube-play{
+	color: #bb1615;
+	font-size: 20px;
+}
+.lineas{
+	background:#92999a;
+	width: 100%;
+	height:1px;
+	margin:20px 0;
+}
+.sus-1{
+	background-image:url(../image/trama_square.jpg);
+	padding:10px;
+}
+.suscribete{
+	background-color: white;
+	padding: 10px;
+}
+.suscribete p{
+	padding-top: 30px;
+	font-size:20px ;
+}
+
+.suscribete input,button{
+	display:block;
+	margin:10px auto;
+}
+.sus-1 img{
+	position:relative;
+	bottom:-30px;
+}
+
